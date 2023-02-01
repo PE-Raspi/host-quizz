@@ -1,5 +1,7 @@
 [{
-  "Drapeaux": 1,
-  "La France": 2,
-  "Radio": 3
+  "list": {
+    "Drapeaux": 1,
+    "La France": 2,
+    "Radio": 3
+  }
 }]
