@@ -1,0 +1,42 @@
+[{
+	"question": "Quel pays?",
+	"data": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"La République Française": true,
+		"L'Empire Français": false,
+		"L'État Français": false,
+		"Le Royaume de France": false
+	}
+},{
+	"question": "Quel pays?",
+	"data": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"La République Française": false,
+		"L'Empire Français": true,
+		"L'État Français": false,
+		"Le Royaume de France": false
+	}
+},{
+	"question": "Quel pays?",
+	"data": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"La République Française": false,
+		"L'Empire Français": false,
+		"L'État Français": true,
+		"Le Royaume de France": false
+	}
+},{
+	"question": "Quel pays?",
+	"data": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/langfr-225px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"La République Française": false,
+		"L'Empire Français": false,
+		"L'État Français": false,
+		"Le Royaume de France": true
+	}
+}]
+
