@@ -1,4 +1,3 @@
-
 [{
 	"question": "Quel es la date de la prise de Jérusalem lors de la première croisade ?",
 	"data": "http://www.pearltrees.com/s/background/image/cb/13/cb13a86f5b02c6246bd10a311740a293.jpg",
