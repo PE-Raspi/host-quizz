@@ -1,0 +1,41 @@
+
+[{
+	"question": "Quel es la date de la prise de Jérusalem lors de la première croisade ?",
+	"data": "http://www.pearltrees.com/s/background/image/cb/13/cb13a86f5b02c6246bd10a311740a293.jpg",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"1095": false,
+		"1099": true,
+		"1104": false,
+	}
+},{
+	"question": "Qui a été proclamé premier souverain de Jérusalem ?",
+	"data": "https://upload.wikimedia.org/wikipedia/commons/f/fb/CrusadeLeaders.jpg",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"Baudouin IV": false,
+		"Godefroy de Bouillon": true,
+		"Foulques d'Anjou": false,
+		"Pierre l'Ermite": false
+	}
+},{
+	"question": "Quel Sultan combat les Croisés a la fin du XIIe siècle ?",
+	"data": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Saladin_Soldan_d%27Egypte_%28BM_1879%2C1213.302%29.jpg/406px-Saladin_Soldan_d%27Egypte_%28BM_1879%2C1213.302%29.jpg",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"Saladin": true,
+		"Al-Afdhal": false,
+		"Al-Adel": false,
+		"Al-Kâmil": false
+	}
+},{
+	"question": "Combien de croisades on été menées ?",
+	"data": "https://hostia.fsspx.org/sites/sspx/files/croisades-1_0.jpg",
+	"type": "QuestionType.IMAGE",
+	"responses": {
+		"5": false,
+		"7": true,
+		"9": false,
+		"11": false
+	}
+}]
