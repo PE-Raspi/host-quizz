@@ -5,7 +5,7 @@
 	"responses": {
 		"1095": false,
 		"1099": true,
-		"1104": false,
+		"1104": false
 	}
 },{
 	"question": "Qui a été proclamé premier souverain de Jérusalem ?",
